@@ -15,7 +15,7 @@
 
  📊 GitHub Stats:
  
-![Syed Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true)  
+#![Syed Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasif27&layout=compact)  
 
