@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Syed Asif
+<h1 align="center">
+  👋 Hi, I'm Syed Asif
+</h1>
 
-I'm a **Linux System Administrator** and **Web Developer** passionate about open-source technologies, server management, and automation. I love solving real-world problems using powerful tools like Linux, Docker, Ansible, and more.
+<p align="center">
+  <b>Linux System Administrator | Web Developer | Red Hat Certified</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
 
 ---
 
@@ -8,7 +16,7 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:calltoasif27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedasif27)
-[![Phone](https://img.shields.io/badge/-7094966796-black?style=flat-square&logo=phone&logoColor=white)](tel:7094966796)
+[![Phone](https://img.shields.io/badge/-7094966796-000000?style=flat-square&logo=phone&logoColor=white)](tel:7094966796)
 
 ---
 
@@ -30,12 +38,13 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 
 ###  GitHub Stats & Activity
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true&theme=radical)
+![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true&theme=red&icon_color=EE0000&title_color=EE0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasif27&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasif27&layout=compact&theme=red)
 
+---
 
-### 🔧 Tools I Use
+###  Tools I Use
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -49,3 +58,8 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+>  _Always learning and building. Let's connect and grow together!_
+
