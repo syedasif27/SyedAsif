@@ -4,7 +4,7 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 
 ---
 
-### 📫 Contact Me
+###  Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:calltoasif27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedasif27)
@@ -12,7 +12,7 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 - **Linux System Administration** (Red Hat Certified)
 - **Mail Server Setup** (iRedMail)
@@ -28,7 +28,7 @@ I'm a **Linux System Administrator** and **Web Developer** passionate about open
 
 ---
 
-### 📊 GitHub Stats & Activity
+###  GitHub Stats & Activity
 
 ![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true&theme=radical)
 
