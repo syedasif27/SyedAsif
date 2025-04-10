@@ -3,51 +3,82 @@
 </h1>
 
 <p align="center">
-  <b>Linux System Administrator | Web Developer | Red Hat Certified</b>
+  <b>Linux System Administrator | Web Developer | Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-E3E3E3?style=for-the-badge&logo=kali-linux&logoColor=blue"/>
 </p>
 
 ---
 
-###  Contact Me
+### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:calltoasif27@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedasif27)
-[![Phone](https://img.shields.io/badge/-7094966796-000000?style=flat-square&logo=phone&logoColor=white)](tel:7094966796)
-
----
-
-###  Skills
-
-- **Linux System Administration** (Red Hat Certified)
-- **Mail Server Setup** (iRedMail)
-- **Web Development** (HTML, CSS, JavaScript, PHP)
-- **Monitoring & Logging** (Prometheus, Grafana)
-- **Firewall & Security** (iptables)
-- **Virtualization & Containers** (Docker, KVM)
-- **Automation** (Ansible)
-- **Version Control** (Git)
-- **Cloud Services** (basic AWS knowledge)
-- **Database Management** (MySQL, Redis)
-- **DevOps Tools** (currently learning Kubernetes)
+[![Email](https://img.shields.io/badge/-calltoasif27@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:calltoasif27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedasif27)
+[![Phone](https://img.shields.io/badge/-7094966796-1a1a1a?style=flat-square&logo=phone&logoColor=white)](tel:7094966796)
 
 ---
 
-###  GitHub Stats & Activity
+### 🧠 About Me
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true&theme=red&icon_color=EE0000&title_color=EE0000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasif27&layout=compact&theme=red)
+I'm a **Linux System Administrator** and **Web Developer** with a passion for open-source, automation, and cybersecurity.  
+I specialize in building robust infrastructure, deploying secure services, and streamlining systems using tools like **Ansible, Docker, Git**, and more.
 
 ---
 
-###  Tools I Use
+### 🛠️ Skills
+
+- 🐧 Linux System Administration (Red Hat Certified)
+- ✉️ Mail Server Deployment (iRedMail)
+- 🌐 Web Development (HTML, CSS, JavaScript, PHP)
+- 📊 Monitoring & Logging (Prometheus, Grafana)
+- 🔥 Firewall & Security (iptables, Fail2Ban)
+- 📦 Virtualization & Containers (Docker, KVM)
+- 🤖 Automation (Ansible)
+- 🔁 Version Control (Git)
+- ☁️ Cloud Basics (AWS)
+- 💾 Database Management (MySQL, Redis)
+- ☸️ DevOps (Learning Kubernetes)
+
+---
+
+### 💀 Cybersecurity Tools & Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-E3E3E3?style=for-the-badge&logo=kali-linux&logoColor=blue" />
+</p>
+
+- 🔥 **iptables** – Firewall rules & traffic filtering  
+- 🔐 **SSH Hardening** – Strong ciphers, key-only auth  
+- 📦 **Fail2Ban** – Auto-ban malicious login attempts  
+- 🧰 **Ansible** – Patch automation & hardening  
+- 🛡️ **SELinux** – Role-based access policies (RHEL)  
+- ✉️ **DKIM / SPF / DMARC** – Email domain security  
+- 🔒 **TLS/SSL** – Encryption for mail/web  
+- 👁️ **Prometheus + Grafana** – Monitoring & threat detection  
+- 🧑‍💻 **MySQL/Redis Hardening** – Restricted access  
+- 📄 **Log Auditing** – Manual + automated monitoring  
+- 🚀 **System Updates** – Regular patching & CVE fixes  
+
+---
+
+### 📊 GitHub Stats & Activity
+
+![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedasif27&show_icons=true&theme=tokyonight&icon_color=00BFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasif27&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=syedasif27&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedasif27&theme=tokyo-night)
+
+---
+
+### 🔧 Tools I Use
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -61,5 +92,6 @@
 
 ---
 
->  _Always learning and building. Let's connect and grow together!_
+> 🧠 _Always learning, always hacking (ethically)._  
+> ⚡ _Let’s build, secure, and automate together!_
 
